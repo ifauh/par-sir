@@ -5,7 +5,7 @@ with support for batch job submission in PBS and Slurm.
 
 **par-sir** is derived from, and depends upon,
 the [3d_sir code](https://github.com/aasensio/3d_sir): Copyright (c) 2018 Andrés Asensio Ramos
-The 3d_sir code is included a submodule of **par-sir** with code overlays in the synth subdirectory.
+The 3d_sir code is included as a submodule of **par-sir** with code overlays in the synth subdirectory.
 
 | Filename | Description |
 | -------- | ----------- |
